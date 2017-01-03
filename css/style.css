@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower');
+body {
+    background-color: #fff;
+}
+.container {
+    width: 900;
+    margin-bottom: 50px;
+}
+#js-newGameElement img {
+    padding-left: 200px;
+}
+.btn-default {
+    background-color: orange;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.cat-btn {
+    background-color: transparent;
+    text-align: left;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px !important;
+}
+.btn .badge {
+    position: relative;
+    top: -1px;
+    background-color: transparent;
+}
+#js-computerPoints,
+#js-playerPoints {
+    color: red;
+    font-weight: 400;
+    font-size: 20px;
+}
+#js-playerName,
+.cat-mum p {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px !important;
+}
+#js-computerResult,
+#js-playerResult    {
+    color: red;
+    font-weight: 400;
+    font-size: 20px;
+}
